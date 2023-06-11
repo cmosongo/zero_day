@@ -1,6 +1,6 @@
-# Project Name
+# [0x00] Vagrant
 
-This project uses Vagrant to set up a development environment for XYZ application.
+This project shows how Vagrant can be used to set up a development environment.
 
 ## Prerequisites
 
@@ -13,17 +13,17 @@ Before you begin, ensure that you have the following installed:
 
 1. Clone this repository to your local machine:
 
-'git clone https://github.com/your-username/project-name.git'
+`git clone https://github.com/your-username/project-name.git`
 
 
 2. Change to the project directory:
 
-'cd project-name'
+`cd project-name`
 
 
 3. Start the Vagrant environment:
 
-'vagrant up'
+`vagrant up`
 
 
 This command will download the Vagrant box, provision the virtual machine, and set up the development environment.
